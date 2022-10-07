@@ -1,11 +1,11 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Copyright (C) 2021-2022 by Aadriti_fed@Github, < https://github.com/Jankarikiduniya >.
+# A Powerful Music Bot Property Of Hitler Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
+# Kanged By © @shaitaan_bacchaa
+# Hitler © @aadriti_fed
+# Owner Adarsh tiwari
+# 
 # All rights reserved. © Alexa © Yukki
 
 
