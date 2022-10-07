@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Alexa, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Sangeet premi music , That is the greatest pleasure we have !
 
 ### Asad– History
 
